@@ -8,8 +8,6 @@ public class Code {
             System.out.println(a / b);
         } catch (Exception e) {
             System.out.println("Error: Division by zero or invalid input");
-        }
-        
-        
+        } 
     }
 }
